@@ -34,8 +34,8 @@ En estos gráficos se ve claro: los clientes que se van (`Churn 1`) suelen tener
 ### **4. Variables Categóricas y Servicios**
 Se analizó el género, el tipo de contrato y el método de pago. El contrato **"Month-to-month"** y el pago con **"Electronic Check"** son los puntos más críticos de evasión.
 
-![Variables Categóricas](variables_categoricas.jpg)
-![Gráfico de Barras](numericas_barras.jpg)
+![Variables Categóricas](variables_categoricas.png)
+![Gráfico de Barras](numericas_barras.png)
 
 También se revisaron los servicios técnicos. Tener **TechSupport** o **OnlineSecurity** ayuda muchísimo a que el cliente no se vaya
 
